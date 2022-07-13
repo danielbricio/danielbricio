@@ -24,7 +24,7 @@
  <img src="https://cdn-icons-png.flaticon.com/512/5696/5696129.png" width="25" height="25"/>
  &emsp;
  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" height="50" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="50" height="50" />
  <img src="https://cdn-icons-png.flaticon.com/512/5696/5696129.png" width="25" height="25"/>
  &emsp;
 
@@ -68,7 +68,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5696/5696129.png" width="25" height="25"/>
 &emsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="60" height="60"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5696/5696129.png" width="25" height="25"/>
 
 </div>
