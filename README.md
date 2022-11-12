@@ -40,8 +40,11 @@
  &emsp;
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
- <img src="https://progress-bar.dev/28" height="10" /> 
+ <img src="https://progress-bar.dev/28" height="10" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" />
+ <img src="https://progress-bar.dev/21" height="10" />
+  
 </div>
 
 <div style="display: inline_block" >
