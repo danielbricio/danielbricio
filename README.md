@@ -1,4 +1,4 @@
-<center> <img src="https://img.icons8.com/color/48/000000/hal-9000.png" alt="drawing" width="50"/> </center>
+<img src="https://img.icons8.com/color/48/000000/hal-9000.png" alt="drawing" width="50"/>
 ### Olá, sou o Daniel Bricio. 
 
 
