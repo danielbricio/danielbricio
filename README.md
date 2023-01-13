@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/danielbricio">
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbricio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbricio&layout=compact&langs_count=16&theme=algolia" />
+  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbricio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbricio&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
 
 
