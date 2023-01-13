@@ -1,10 +1,6 @@
 ### Olá, sou o Daniel Bricio. <img src="https://img.icons8.com/color/48/000000/hal-9000.png" alt="drawing" width="30"/>
 
-<div>
-  <a href="https://github.com/danielbricio">
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbricio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbricio&layout=compact&langs_count=16&theme=algolia" />
-</div>
+
 
 
 
