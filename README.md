@@ -24,7 +24,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50"/> 
  &emsp;
  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" height="50"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="50" height="50"/>
  &emsp;
 
  <img src="https://i.redd.it/ne6ukkej06t71.png" width="50" height="50"/>
