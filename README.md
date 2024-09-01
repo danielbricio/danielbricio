@@ -29,10 +29,15 @@
 
  <img src="https://i.redd.it/ne6ukkej06t71.png" width="50" height="50"/>
  &emsp;
+
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="50" height="50"/>
+ &emsp;
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" />
+
+
   
 </div>
 
