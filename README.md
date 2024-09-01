@@ -1,6 +1,8 @@
 <img src="https://img.icons8.com/color/48/000000/hal-9000.png" alt="drawing" width="50"/>
 
-### Olá, sou o Daniel Bricio. 
+## Olá, sou o Daniel Bricio.
+
+# Sou um entusiasta da tecnologia com uma base sólida em montagem e manutenção de hardware e uma paixão crescente pelo desenvolvimento Front-End. Atualmente, estou no 4º período de Ciência da Computação na UESPI, onde estou aprofundando meus conhecimentos em programação e lógica computacional. Estou focado em desenvolver minhas habilidades de programação, especialmente em JavaScript, HTML, CSS, e explorando novas tecnologias e frameworks para o desenvolvimento web. Sempre em busca de novos conhecimentos, estou aberto a colaborações e projetos desafiadores que possam expandir meus horizontes e aprimorar minhas habilidades.
 
 
 
@@ -24,25 +26,20 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50"/> 
  &emsp;
  
- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="50" height="50"/>
  &emsp;
 
- <img src="https://i.redd.it/ne6ukkej06t71.png" width="50" height="50"/>
+<img src="https://i.redd.it/ne6ukkej06t71.png" width="50" height="50"/>
  &emsp;
 
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="50" height="50"/>
  &emsp;
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
+&emsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" />
-
-
-  
-</div>
-
-<div style="display: inline_block" >
-<h6> Ferramentas em que iniciei os estudos (07/2022)👇</h6>
+&emsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
 &emsp;
