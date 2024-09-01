@@ -51,8 +51,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
 &emsp;
 
-<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="60" height="60"/>
-
 </div>
 
 <br>
