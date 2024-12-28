@@ -5,11 +5,9 @@
 
 # Olá, sou o Daniel Bricio! 
 
-Sou um estudante de Ciência da Computação, atualmente no 4º período na UESPI, com grande interesse em desenvolvimento de software. Minha jornada começou com montagem e manutenção de hardware, mas hoje dedico meus esforços a explorar o universo da tecnologia, especialmente em áreas como desenvolvimento web, Banco de Dados e Análise de Dados.
+Sou estudante de Ciência da Computação no 4º período da UESPI (Universidade Estadual do Piauí). Comecei na área com montagem e manutenção de computadores e redes, mas hoje foco no desenvolvimento de software, especialmente em desenvolvimento web, Banco de Dados e Análise de Dados.
 
-Tenho habilidades básicas em C, Ruby (incluindo o framework Ruby on Rails), Python, HTML, JavaScript e CSS, e busco continuamente aprimorar meus conhecimentos em frameworks modernos e boas práticas de desenvolvimento. Meu objetivo é criar soluções eficientes que aliem funcionalidade e inovação, contribuindo para projetos que desafiem e ampliem minhas competências.
-
-Estou sempre disposto a aprender, colaborar em projetos e buscar oportunidades que promovam meu crescimento acadêmico e profissional.
+Tenho conhecimentos básicos em C, Ruby (incluindo Ruby on Rails), Python, HTML, JavaScript e CSS. Participo de projetos acadêmicos individuais e em grupo e busco aplicar o que aprendo na universidade e fora dela. Sou comprometido com meu aprendizado, sempre disposto a aprender e a colaborar em projetos que promovam meu crescimento acadêmico, profissional e pessoal.
 
 ---
 
@@ -35,14 +33,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais já trabalhei:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
 
 </div>
-
----
-
-## Sobre Mim
-
-Minha experiência inclui suporte técnico em escritórios jurídicos, onde desenvolvi habilidades em configuração de sistemas e manutenção de computadores. Atualmente, tenho direcionado meus estudos e práticas ao desenvolvimento de software, com foco em áreas como desenvolvimento web, Banco de Dados e Análise de Dados.
-
-Sou comprometido com meu aprendizado e crescimento, buscando sempre aplicar o que estudo em projetos reais e significativos. Acredito que a combinação entre teoria e prática é essencial para um desenvolvimento consistente.
 
 ---
 
